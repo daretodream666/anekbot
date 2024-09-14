@@ -1,5 +1,6 @@
-# vim: set ft=rst:
+this is very goofy AHHHHH bot
 
-See https://help.pythonanywhere.com/ (or click the "Help" link at the top
-right) for help on how to use PythonAnywhere, including tips on copying and
-pasting from consoles, and writing your own web applications.
+VK API
+Flask(who the f uses it in 2024?)
+
+started in ~2018 remaking it in 2024
