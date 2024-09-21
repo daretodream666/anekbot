@@ -1,4 +1,5 @@
 this is very goofy AHHHHH bot for VK
+https://vk.com/anekbot27
 
 VK API
 Flask(who the f uses it in 2024? nvm i made a VK bot)
